@@ -75,7 +75,7 @@ namespace ChessLogic
 
                 if (!HasMoved && CanMoveTo(twoMovePos, board))
                 {
-                    yield return new NormalMove(from, twoMovePos);
+                    yield return new DoublePawn(from, twoMovePos);
                 }
             }
         }

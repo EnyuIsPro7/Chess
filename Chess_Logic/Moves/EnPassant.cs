@@ -12,7 +12,7 @@
         {
             FromPos = from;
             ToPos = to;
-            capturePos = new Position(from.Row, from.Column);
+            capturePos = new Position(from.Row, to.Column);
         }
 
         public override void Execute(Board board)
