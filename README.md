@@ -1,2 +1,2 @@
 ## About
-I have created a chess clone game with the help of OttoBotCode's tutorial😊([https://] https://www.youtube.com/watch?v=X6uIMBsxte4&list=PLFk1_lkqT8MahHPi40ON-jyo5wiqnyHsL&index=14 )
+I have created a chess clone game with the help of OttoBotCode's tutorial😊. Here is the first part(https://www.youtube.com/watch?v=GEkSE6eZMGc&list=PLFk1_lkqT8MahHPi40ON-jyo5wiqnyHsL)
