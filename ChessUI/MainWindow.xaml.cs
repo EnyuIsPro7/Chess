@@ -233,7 +233,7 @@ namespace ChessUI
         private void ShowPauseMenu()
         {
             PauseMenu pauseMenu = new PauseMenu();
-            MenuContainer.Content = null;
+            MenuContainer.Content = pauseMenu;
 
             pauseMenu.OptionSelected += option => 
             {
